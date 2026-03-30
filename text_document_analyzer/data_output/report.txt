@@ -1,0 +1,18 @@
+----Text Analysis Report----
+Total Words: 546
+Unique Words: 377
+Average Word Length: 6.53
+Longest Word: reproducibility
+Most Frequent Word: 'they' (Count: 17)
+
+Top 10 words:
+1. they (Count: 17)
+2. that (Count: 10)
+3. words (Count: 9)
+4. include (Count: 7)
+5. report (Count: 6)
+6. scenario (Count: 6)
+7. verify (Count: 6)
+8. team (Count: 5)
+9. with (Count: 4)
+10. consistent (Count: 4)
